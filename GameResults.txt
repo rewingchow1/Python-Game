@@ -1,0 +1,90 @@
+You rolled a 3
+You flipped a Tails
+You drew a A of Clubs
+YOU LOSE! attempt: 1
+
+
+You rolled a 6
+You flipped a Tails
+You drew a A of Diamonds
+YOU LOSE! attempt: 2
+
+
+You rolled a 3
+You flipped a Heads
+You drew a 6 of Diamonds
+YOU LOSE! attempt: 3
+
+
+You rolled a 4
+You flipped a Heads
+You drew a 10 of Diamonds
+YOU LOSE! attempt: 4
+
+
+You rolled a 4
+You flipped a Tails
+You drew a A of Diamonds
+YOU LOSE! attempt: 5
+
+
+You rolled a 5
+You flipped a Tails
+You drew a 6 of Clubs
+YOU LOSE! attempt: 6
+
+
+You rolled a 3
+You flipped a Tails
+You drew a 2 of Diamonds
+YOU LOSE! attempt: 7
+
+
+You rolled a 3
+You flipped a Heads
+You drew a 4 of Diamonds
+YOU LOSE! attempt: 8
+
+
+You rolled a 2
+You flipped a Heads
+You drew a 3 of Clubs
+YOU LOSE! attempt: 9
+
+
+You rolled a 6
+You flipped a Heads
+You drew a 7 of Diamonds
+YOU LOSE! attempt: 10
+
+
+You rolled a 3
+You flipped a Tails
+You drew a J of Hearts
+YOU LOSE! attempt: 11
+
+
+You rolled a 2
+You flipped a Heads
+You drew a 3 of Diamonds
+YOU LOSE! attempt: 12
+
+
+You rolled a 5
+You flipped a Tails
+You drew a J of Diamonds
+YOU LOSE! attempt: 13
+
+
+You rolled a 5
+You flipped a Heads
+You drew a 10 of Diamonds
+YOU LOSE! attempt: 14
+
+
+You rolled a 4
+You flipped a Tails
+You drew a 3 of Diamonds
+YOU LOSE! attempt: 15
+
+
